@@ -11,6 +11,7 @@ I will be
 ## Tools
 
 - Python
-- Jupyter Notebook
 - Requests
 - BeautifulSoup
+- lxml
+
